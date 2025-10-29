@@ -1,5 +1,6 @@
 pip install tensorflow==2.10
-pip install "numpy<2,>=1.23.5"
+pip install mtcnn==0.1.1
 pip install scikit-learn
 pip install opencv-python==4.7.0.68
 pip install matplotlib==3.7.1
+pip install "numpy<2,>=1.23.5"
